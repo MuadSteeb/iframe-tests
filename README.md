@@ -6,7 +6,7 @@ here is the vimeo player embedded in a GH Pages site
 ------------
 Brightcove stream:
 
-<iframe src="https://players.brightcove.net/6314018604001/4SNdO9Lix_default/index.html?videoId=6322680080112" allowfullscreen="" allow="encrypted-media" width="960" height="540"></iframe>
+<iframe src="https://players.brightcove.net/6314018604001/4SNdO9Lix_default/index.html?videoId=6322680080112" allowfullscreen="" allow="encrypted-media" width="560" height="315"></iframe>
 
 ------------
 
